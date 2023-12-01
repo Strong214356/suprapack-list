@@ -3,6 +3,7 @@ bison-3.8.2.suprapack
 ft_nolock-1.0.suprapack
 42cformatter-v1.0.suprapack
 zoxide-0.9.2.suprapack
+bazel-8.0.0.suprapack
 c42formatter-vim-v1.0.suprapack
 xdotool-3.suprapack
 minilibx-2.3.2.suprapack
