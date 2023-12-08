@@ -13,8 +13,4 @@ dart-3.2.2.suprapack
 gf2-v1.0.suprapack
 supra destroyer-2.1.suprapack
 glew-2.2.suprapack
-<<<<<<< HEAD
 supra destroyer-2.0.suprapack
-=======
-raylib-4.5.0.suprapack
->>>>>>> a006652 (adding sound to supradestroyer)
